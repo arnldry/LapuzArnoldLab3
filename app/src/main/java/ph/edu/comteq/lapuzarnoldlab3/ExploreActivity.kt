@@ -97,6 +97,7 @@ fun Explore(modifier: Modifier = Modifier) {
                 fontWeight = FontWeight.Bold
             )
 
+
             // Divider
             HorizontalDivider(Modifier, DividerDefaults.Thickness, color = Color.Gray)
 
